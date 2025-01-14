@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Time    : 11/16/2023 9:08 PM
-# @Author  : WANG CC
-# @Email   : wangchenchen233@163.com
-# @File    : data_load.py
-
 import numpy as np
 import scipy.io as scio
 import sklearn
