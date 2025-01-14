@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Time    : 11/16/2023 9:15 PM
-# @Author  : WANG CC
-# @Email   : wangchenchen233@163.com
-# @File    : feature_structure.py
 from scipy.sparse import *
 from sklearn.metrics.pairwise import pairwise_distances
 from scipy.spatial.distance import pdist, squareform
